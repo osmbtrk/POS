@@ -1,0 +1,112 @@
+.header{
+    background-color:rgba(0, 0, 0, 0.8);
+    color:rgb(29, 29, 31);
+    display:block;
+    height:100px;
+    left:0px;
+    max-height:100px;
+    min-width:1024px;
+    position:absolute;
+    top:0px;
+    width:1349px;
+}
+.logo{
+	color:  #4CAF50;
+	font: normal 48px 'Cookie', cursive;
+    margin: 0;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+ 
+.logo1{
+	color:  #5383d3;
+}
+    
+.form{
+    margin-top: -32px;
+    margin-left: 380px;
+    
+}
+.input{
+    width: 500px;
+    height: 35px;
+    border-radius: 10px;
+    background-color:#E4E6E9;
+}
+.rechercher{
+
+    background-color:rgba(0, 0, 0, 0);
+    background-position-x:50%;
+    background-position-y:50%;
+    background-size:19px 19px;
+    border-bottom-color:rgba(0, 0, 0, 0);
+    border-bottom-style:none;
+    border-bottom-width:0px;
+    border-image-outset:0;
+    border-image-repeat:stretch;
+    border-image-slice:100%;
+    border-image-source:none;
+    border-image-width:1;
+    border-left-color:rgba(0, 0, 0, 0);
+    border-left-style:none;
+    border-left-width:0px;
+    border-right-color:rgba(0, 0, 0, 0);
+    border-right-style:none;
+    border-right-width:0px;
+    border-top-color:rgba(0, 0, 0, 0);
+    border-top-style:none;
+    border-top-width:0px;
+    box-sizing:border-box;
+    color:rgba(0, 0, 0, 0);
+    cursor:pointer;
+    display:block;
+    font-size:0px;
+    font-weight:400;
+    height:46px;
+    position:absolute;
+    right:470px;
+    top:33px;
+    width:50px;
+    background-image:url(https://a-v2.sndcdn.com/assets/images/search-dbfe5cbb.svg);
+    background-repeat: no-repeat;
+}
+.button {
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    }
+
+    .button1 {
+    background-color: transparent;
+    color: white;
+    border: 2px solid #4CAF50;
+    }
+
+    .button1:hover {
+    background-color:#4CAF50;
+    color: white;
+    }
+
+    .button2 {
+    background-color: transparent;
+    color: white;
+    border: 2px solid #008CBA;
+    }
+
+    .button2:hover {
+    background-color: #008CBA;
+    color: white;
+    }
+    .b1{
+        margin-top: -60px;
+        margin-left: 970px;
+
+    }

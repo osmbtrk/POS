@@ -1,0 +1,17 @@
+.logo{
+    margin: 10px;
+}
+.navbar-nav{
+    margin-left: 30px;
+}
+#navbarDropdown{
+    margin-left: 25px;
+    color: #ffffff;
+}
+.dropdown-menu{
+    min-width: 180px;
+}
+#navbarSupportedContent {
+    font-size: 17px;
+
+}
